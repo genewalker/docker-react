@@ -10,6 +10,12 @@ function App() {
         <p>
           Emilia Genstrand, Bye
         </p>
+        <p>
+          Ylva Genstrand, Bye
+        </p>
+        <p>
+          Fredrik Genstrand, Bye
+        </p>        
         <a
           className="App-link"
           href="https://reactjs.org"
